@@ -1,0 +1,15 @@
+{
+  "name": "ga7-aa5-ev01-api",
+  "version": "1.0.0",
+  "description": "Servicio web de registro e inicio de sesión",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "Rosmery Santana",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
